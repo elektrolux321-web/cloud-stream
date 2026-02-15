@@ -1,0 +1,9 @@
+{
+  "name": "Prime repository",
+  "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime_Repository/refs/heads/main/Prime%20logos/Prime.png",
+  "description": "Netflix, PrimeVideo, Moviebox, StreamPlay, PrimeLive TV & Cartoons",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/malikasadullah/Prime_Repository/refs/heads/main/Prime%20plugins.json"
+  ]
+}
